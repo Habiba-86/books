@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+sklearn
+numpy
+pymongo
+streamlit-option-menu
+wordcloud
