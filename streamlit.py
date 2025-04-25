@@ -10,10 +10,7 @@ from wordcloud import WordCloud
 ###############################################################
 st.set_page_config(page_title="Book ", layout="wide")
 ##############################################################################
-client = MongoClient("mongodb://localhost:27017/")
-db = client["Database"]
-collection = db["Books"]
-data = list(collection.find())
+data=pd.read_csv("d:/Dst/project/book.csv")
 df = pd.DataFrame(data)
 
 # ======================================Sidebar navigation============================
