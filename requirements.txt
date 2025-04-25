@@ -4,6 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 numpy
-pymongo
 streamlit-option-menu
 wordcloud
