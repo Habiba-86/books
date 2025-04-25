@@ -1,4 +1,3 @@
-from pymongo import MongoClient
 import streamlit as st
 import pandas as pd
 from sklearn.cluster import KMeans
