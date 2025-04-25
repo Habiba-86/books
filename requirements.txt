@@ -2,7 +2,7 @@ streamlit
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 numpy
 pymongo
 streamlit-option-menu
