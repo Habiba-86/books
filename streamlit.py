@@ -10,7 +10,7 @@ from wordcloud import WordCloud
 ###############################################################
 st.set_page_config(page_title="Book ", layout="wide")
 ##############################################################################
-data=pd.read_csv("d:/Dst/project/book.csv")
+data=pd.read_csv("book.csv")
 df = pd.DataFrame(data)
 
 # ======================================Sidebar navigation============================
