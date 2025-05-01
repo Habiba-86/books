@@ -62,7 +62,7 @@ if st.session_state.page == "Home Page":
         <h3 style="color: #2E86AB;">Welcome to the Data Analysis 👋</h3>
         <p>Explore and analyze book data with interactive tools:</p>
         <ul>
-            <li>View raw data directly from MongoDB</li>
+            <li>View sample of Data</li>
             <li>Perform advanced data analysis</li>
             <li>Generate beautiful visualizations</li>
         </ul>
